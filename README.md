@@ -5,3 +5,5 @@ TODO BEST PATTERN
 i've created this Todo .<br/>
 i want to show you how many counts rerender and also you can delete the hook to see what is the diffrence ,actually you can understand all of the hooks in this best practice belive me.🕵️‍♂️
 
+
+<video src="/public/todo.mp4" />
