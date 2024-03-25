@@ -8,5 +8,5 @@ i want to show you how many counts rerender and also you can delete the hook to 
 
 Demo 
 -
-<img src="/public/Todo.mov" alt="demo Todo video "/>
+<img src="/public/Todo.mov" alt="demo video "/>
 
