@@ -1,3 +1,3 @@
 TODO BEST PATTERN 
 -----------------------
-<img src='/todo.png'/>
+<img src='./todo.png'/>
