@@ -48,7 +48,6 @@ const filteredTodoList =useMemo(()=>todoList.filter((todo)=>{
     <input type="text" value={task} onChange={(e)=>setTask(e.target.value)} />
     <button onClick={handleCreate}>Create</button>
     <button onClick={handleSearch}>Search</button>
-
     <List todoList={filteredTodoList} handleDelete={handleDelete}/>
    </div>
   )
